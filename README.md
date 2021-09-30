@@ -36,10 +36,10 @@ This GitHub repo is a template. You can clone a copy of this repo into your team
 When you have completed your proposal, make sure all changes have been committed to your repo and then upload a PDF version to Canvas.
 
 ## Task List:
-- [ ] Meet with your group
-- [ ] Come up with an awesome idea
-- [ ] Write your proposal
-- [ ] For the love that is all good and holy have someone else read your proposal (and edit accordingly)
-- [ ] Update your repo (You do not need a pull request)
-- [ ] Submit the PDF version to Canvas
+- [X] Meet with your group
+- [X] Come up with an awesome idea
+- [X] Write your proposal
+- [X] For the love that is all good and holy have someone else read your proposal (and edit accordingly)
+- [X] Update your repo (You do not need a pull request)
+- [X] Submit the PDF version to Canvas
 
